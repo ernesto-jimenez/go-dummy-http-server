@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/ernesto-jimenez/go-dummy-http-server",
+	"GoVersion": "go1.3",
+	"Deps": []
+}
